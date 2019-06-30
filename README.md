@@ -1,2 +1,2 @@
 # Memo
-Just used to save some useful informations for me. (Chinese Language).
+Just used to store some useful informations for me. (Chinese Language).
