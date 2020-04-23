@@ -13,4 +13,4 @@ Check the [Issues](https://github.com/F-Feng/Memo/issues) section.
 [http://www.uupoop.com/ps](http://www.uupoop.com/ps)
 
 - **LaTeX on GitHub**
-[https://alexanderrodin.com/github-latex-markdown/]
+[https://alexanderrodin.com/github-latex-markdown/](https://alexanderrodin.com/github-latex-markdown/)
