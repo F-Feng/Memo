@@ -19,4 +19,4 @@ Check the [Issues](https://github.com/F-Feng/Memo/issues) section.
 [https://www.compart.com/en/unicode/](https://www.compart.com/en/unicode/)
 
 - **Large image Print to A4 pages**
-[https://rasterbator.net](*https://rasterbator.net*)
+[https://rasterbator.net](https://rasterbator.net)
