@@ -12,9 +12,6 @@ Check the [Issues](https://github.com/F-Feng/Memo/issues) section.
 - **PhotoShop**
 [http://www.uupoop.com/ps](http://www.uupoop.com/ps)
 
-- **LaTeX on GitHub**
-[https://alexanderrodin.com/github-latex-markdown/](https://alexanderrodin.com/github-latex-markdown/)
-
 - **Unicode字符**
 [https://www.compart.com/en/unicode/](https://www.compart.com/en/unicode/)
 
